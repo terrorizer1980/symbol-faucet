@@ -46,7 +46,7 @@
     "pug-plain-loader": "^1.0.0",
     "querystring": "^0.2.0",
     "rxjs": "^6.6.2",
-    "stylus": "^0.54.8",
+    "stylus": "^0.64.0",
     "stylus-loader": "^3.0.2",
     "symbol-sdk": "^0.20.6",
     "tls": "0.0.1",
